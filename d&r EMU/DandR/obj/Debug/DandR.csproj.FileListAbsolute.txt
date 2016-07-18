@@ -1,0 +1,494 @@
+C:\Users\Zeynep\Desktop\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\Zeynep\Desktop\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\Zeynep\Desktop\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\Zeynep\Desktop\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\Zeynep\Desktop\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\Zeynep\Desktop\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\Zeynep\Desktop\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\Zeynep\Desktop\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\Zeynep\Desktop\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\Zeynep\Desktop\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\Zeynep\Desktop\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\Zeynep\Desktop\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\Zeynep\Desktop\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\Zeynep\Desktop\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\student\Desktop\Kurs Proje 1\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\student.WISSEN43\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyerler.resources
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyerler.resources
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+D:\Mahmut Proje\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+D:\Mahmut Proje\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+D:\Mahmut Proje\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyerler.resources
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+D:\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyerler.resources
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyerler.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\student.WISSEN43\Desktop\Proje\Mahmut Proje\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+E:\Proje\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+E:\Proje\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+E:\Proje\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyerler.resources
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+E:\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyerler.resources
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\student\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyerler.resources
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\Proje\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyerler.resources
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\USER\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+G:\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+G:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+G:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+D:\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+D:\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+D:\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyerler.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyerler.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyerler.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerSatisSorgulama.resources
+C:\Users\Zeynep\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSatisSorgulama.resources
+H:\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+H:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+H:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerSatisSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSatisSorgulama.resources
+E:\EMU\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+E:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+E:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasaİslemleri.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerSatisSorgulama.resources
+D:\EMU\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSatisSorgulama.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasaİslemleri.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerSatisSorgulama.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSatisSorgulama.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+C:\Users\student\Desktop\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+E:\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+E:\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+E:\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+G:\D&R Proje\DandR\DandR\bin\Debug\DandR.exe.config
+G:\D&R Proje\DandR\DandR\bin\Debug\DandR.exe
+G:\D&R Proje\DandR\DandR\bin\Debug\DandR.pdb
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasaİslemleri.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.KasiyerSatisSorgulama.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSatisSorgulama.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.Notlar.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.Urunler.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.exe
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.pdb
+G:\D&R Proje\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+D:\dün dündür\DandR\DandR\bin\Debug\DandR.exe.config
+D:\dün dündür\DandR\DandR\bin\Debug\DandR.exe
+D:\dün dündür\DandR\DandR\bin\Debug\DandR.pdb
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.Kasaİslemleri.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.KasiyerSatisSorgulama.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.MusteriSatisSorgulama.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.Notlar.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.Urunler.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.exe
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.pdb
+G:\dün dündür\DandR\DandR\bin\Debug\DandR.exe.config
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.exe
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.pdb
+G:\dün dündür\DandR\DandR\bin\Debug\DandR.exe
+G:\dün dündür\DandR\DandR\bin\Debug\DandR.pdb
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.Kasaİslemleri.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.KasiyerSatisSorgulama.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.MusteriSatisSorgulama.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.Notlar.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.Urunler.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+E:\dün dündür\DandR\DandR\bin\Debug\DandR.exe.config
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.exe
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.pdb
+E:\dün dündür\DandR\DandR\bin\Debug\DandR.exe
+E:\dün dündür\DandR\DandR\bin\Debug\DandR.pdb
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.Kasaİslemleri.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.KasiyerSatisSorgulama.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.MusteriSatisSorgulama.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.Notlar.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.Urunler.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+E:\dün dündür\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+G:\dün dündür\DandR\DandR\obj\Debug\DandR.FirmaOdeme.resources
+D:\dün dündür\DandR\DandR\obj\Debug\DandR.FirmaOdeme.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.FirmaOdeme.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.Kasaİslemleri.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.KasiyerSatisSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.MusteriSatisSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.Notlar.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\DandR.Raporlama.resources
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\RdlCompile.cache
+C:\Users\student.WISSEN43\Desktop\dün dündür\DandR\DandR\obj\Debug\RdlCompile.compiled
+D:\emu Hayırlı olsun\DandR\DandR\bin\Debug\DandR.exe.config
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.exe
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.pdb
+D:\emu Hayırlı olsun\DandR\DandR\bin\Debug\DandR.exe
+D:\emu Hayırlı olsun\DandR\DandR\bin\Debug\DandR.pdb
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.FirmaOdeme.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.Kasaİslemleri.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.KasiyerSatisSorgulama.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.MusteriSatisSorgulama.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.Notlar.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.Raporlama.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.Urunler.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\RdlCompile.cache
+D:\emu Hayırlı olsun\DandR\DandR\obj\Debug\RdlCompile.compiled
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\bin\Debug\DandR.exe.config
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\bin\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\bin\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.FirmaOdeme.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.Kasaİslemleri.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.KasiyerSatisSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.MusteriSatisSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.Notlar.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.Raporlama.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.UrunSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\RdlCompile.cache
+C:\Users\student.WISSEN43\Desktop\d&r EMU\DandR\DandR\obj\Debug\RdlCompile.compiled
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\bin\Debug\DandR.exe.config
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\bin\Debug\DandR.exe
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\bin\Debug\DandR.pdb
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.csprojResolveAssemblyReference.cache
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.FirmaOdeme.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.GirisEkrani.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.Kasaİslemleri.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.Kasiyer.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.KasiyerEkleSorgula.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.KasiyerSatisSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.Musteriler.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.MusteriSatisSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.MusteriSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.Notlar.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.Properties.Resources.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.Raporlama.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.Urunler.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.UrunSatis.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.UrunSorgulama.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.Yonetici.resources
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\DandR.csproj.GenerateResource.Cache
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\RdlCompile.cache
+C:\Users\student.WISSEN43\Desktop\Ecem Selin ÇALIŞKAN-Mahmut UZUN-Umut Can PARLAR\d&r EMU\DandR\obj\Debug\RdlCompile.compiled

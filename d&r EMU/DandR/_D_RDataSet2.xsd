@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="_D_RDataSet2" targetNamespace="http://tempuri.org/_D_RDataSet2.xsd" xmlns:mstns="http://tempuri.org/_D_RDataSet2.xsd" xmlns="http://tempuri.org/_D_RDataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="D_RConnectionString2" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="D_RConnectionString2 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DandR.Properties.Settings.GlobalReference.Default.D_RConnectionString2" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vw_KasiyerRaporTableAdapter" GeneratorDataComponentClassName="vw_KasiyerRaporTableAdapter" Name="vw_KasiyerRapor" UserDataComponentName="vw_KasiyerRaporTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="D_RConnectionString2 (Settings)" DbObjectName="[D&amp;R].dbo.vw_KasiyerRapor" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT KasiyerAd, KasiyerSoyad, Tarih, GunlukSatis FROM dbo.vw_KasiyerRapor</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="KasiyerAd" DataSetColumn="KasiyerAd" />
+              <Mapping SourceColumn="KasiyerSoyad" DataSetColumn="KasiyerSoyad" />
+              <Mapping SourceColumn="Tarih" DataSetColumn="Tarih" />
+              <Mapping SourceColumn="GunlukSatis" DataSetColumn="GunlukSatis" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="_D_RDataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="_D_RDataSet2" msprop:Generator_UserDSName="_D_RDataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vw_KasiyerRapor" msprop:Generator_TableClassName="vw_KasiyerRaporDataTable" msprop:Generator_TableVarName="tablevw_KasiyerRapor" msprop:Generator_TablePropName="vw_KasiyerRapor" msprop:Generator_RowDeletingName="vw_KasiyerRaporRowDeleting" msprop:Generator_RowChangingName="vw_KasiyerRaporRowChanging" msprop:Generator_RowEvHandlerName="vw_KasiyerRaporRowChangeEventHandler" msprop:Generator_RowDeletedName="vw_KasiyerRaporRowDeleted" msprop:Generator_UserTableName="vw_KasiyerRapor" msprop:Generator_RowChangedName="vw_KasiyerRaporRowChanged" msprop:Generator_RowEvArgName="vw_KasiyerRaporRowChangeEvent" msprop:Generator_RowClassName="vw_KasiyerRaporRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="KasiyerAd" msprop:Generator_ColumnVarNameInTable="columnKasiyerAd" msprop:Generator_ColumnPropNameInRow="KasiyerAd" msprop:Generator_ColumnPropNameInTable="KasiyerAdColumn" msprop:Generator_UserColumnName="KasiyerAd">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="KasiyerSoyad" msprop:Generator_ColumnVarNameInTable="columnKasiyerSoyad" msprop:Generator_ColumnPropNameInRow="KasiyerSoyad" msprop:Generator_ColumnPropNameInTable="KasiyerSoyadColumn" msprop:Generator_UserColumnName="KasiyerSoyad">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tarih" msprop:Generator_ColumnVarNameInTable="columnTarih" msprop:Generator_ColumnPropNameInRow="Tarih" msprop:Generator_ColumnPropNameInTable="TarihColumn" msprop:Generator_UserColumnName="Tarih" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="GunlukSatis" msprop:Generator_ColumnVarNameInTable="columnGunlukSatis" msprop:Generator_ColumnPropNameInRow="GunlukSatis" msprop:Generator_ColumnPropNameInTable="GunlukSatisColumn" msprop:Generator_UserColumnName="GunlukSatis" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AD457AC3-64FD-40A4-AF4A-B9EFACD612C6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DandR</RootNamespace>
+    <AssemblyName>DandR</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FirmaOdeme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirmaOdeme.Designer.cs">
+      <DependentUpon>FirmaOdeme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GirisEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GirisEkrani.Designer.cs">
+      <DependentUpon>GirisEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kasaİslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kasaİslemleri.Designer.cs">
+      <DependentUpon>Kasaİslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kasiyer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kasiyer.Designer.cs">
+      <DependentUpon>Kasiyer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KasiyerEkleSorgula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KasiyerEkleSorgula.Designer.cs">
+      <DependentUpon>KasiyerEkleSorgula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KasiyerSatisSorgulama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KasiyerSatisSorgulama.Designer.cs">
+      <DependentUpon>KasiyerSatisSorgulama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Genel.cs" />
+    <Compile Include="Model\KasaHareketler.cs" />
+    <Compile Include="Model\KasiyerIslemleri.cs" />
+    <Compile Include="Model\Kategoriler.cs" />
+    <Compile Include="Model\Musteri.cs" />
+    <Compile Include="Model\Urun.cs" />
+    <Compile Include="Model\UrunSatislar.cs" />
+    <Compile Include="Model\YetkiGiris.cs" />
+    <Compile Include="Musteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musteriler.Designer.cs">
+      <DependentUpon>Musteriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriSatisSorgulama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriSatisSorgulama.Designer.cs">
+      <DependentUpon>MusteriSatisSorgulama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriSorgulama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriSorgulama.Designer.cs">
+      <DependentUpon>MusteriSorgulama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notlar.Designer.cs">
+      <DependentUpon>Notlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Raporlama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Raporlama.Designer.cs">
+      <DependentUpon>Raporlama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Urunler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Urunler.Designer.cs">
+      <DependentUpon>Urunler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunSatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunSatis.Designer.cs">
+      <DependentUpon>UrunSatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunSorgulama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunSorgulama.Designer.cs">
+      <DependentUpon>UrunSorgulama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetici.Designer.cs">
+      <DependentUpon>Yonetici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_D_RDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_D_RDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_D_RDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_D_RDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_D_RDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_D_RDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_D_RDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_D_RDataSet3.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FirmaOdeme.resx">
+      <DependentUpon>FirmaOdeme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GirisEkrani.resx">
+      <DependentUpon>GirisEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kasaİslemleri.resx">
+      <DependentUpon>Kasaİslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kasiyer.resx">
+      <DependentUpon>Kasiyer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KasiyerEkleSorgula.resx">
+      <DependentUpon>KasiyerEkleSorgula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KasiyerSatisSorgulama.resx">
+      <DependentUpon>KasiyerSatisSorgulama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musteriler.resx">
+      <DependentUpon>Musteriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriSatisSorgulama.resx">
+      <DependentUpon>MusteriSatisSorgulama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriSorgulama.resx">
+      <DependentUpon>MusteriSorgulama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notlar.resx">
+      <DependentUpon>Notlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Raporlama.resx">
+      <DependentUpon>Raporlama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Urunler.resx">
+      <DependentUpon>Urunler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunSatis.resx">
+      <DependentUpon>UrunSatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunSorgulama.resx">
+      <DependentUpon>UrunSorgulama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetici.resx">
+      <DependentUpon>Yonetici.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="_D_RDataSet.xsc">
+      <DependentUpon>_D_RDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_D_RDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_D_RDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_D_RDataSet.xss">
+      <DependentUpon>_D_RDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_D_RDataSet1.xsc">
+      <DependentUpon>_D_RDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="_D_RDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_D_RDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_D_RDataSet1.xss">
+      <DependentUpon>_D_RDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="_D_RDataSet2.xsc">
+      <DependentUpon>_D_RDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="_D_RDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_D_RDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_D_RDataSet2.xss">
+      <DependentUpon>_D_RDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="_D_RDataSet3.xsc">
+      <DependentUpon>_D_RDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="_D_RDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_D_RDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_D_RDataSet3.xss">
+      <DependentUpon>_D_RDataSet3.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resimler\strongbox.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
